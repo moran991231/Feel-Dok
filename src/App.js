@@ -5,7 +5,6 @@ import * as Pages from "./pages";
 function App() {
   return (
     <div className="App">
-      hello
       <Routes>
         <Route path="/" element={<Pages.Main />} />
         <Route path="/info" element={<Pages.Info />} />
