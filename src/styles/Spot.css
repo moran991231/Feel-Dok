@@ -1,0 +1,31 @@
+.spot-con {
+  background-color: #c6e6f9c0;
+  height: 95%;
+  padding: 1rem;
+}
+.spot-alert {
+  font-family: "East Sea Dokdo", cursive;
+  font-size: 2rem;
+  padding-top: 20%;
+}
+
+.spot-title {
+  font-family: "East Sea Dokdo", cursive;
+  font-size: 3rem;
+  margin-bottom: 5%;
+}
+.spot-addr {
+  font-family: "Nanum Gothic", sans-serif;
+  font-size: 1.3rem;
+  margin-bottom: 5%;
+}
+
+.spot-desc {
+  font-family: "Nanum Gothic", sans-serif;
+  font-size: 1.3rem;
+  /* width: 100%; */
+  height: max-content;
+  padding: 1rem;
+  background-color: #00000011;
+  border-radius: 0.1rem;
+}

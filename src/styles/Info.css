@@ -1,12 +1,43 @@
 .info-con {
   width: 100vw;
   height: 100vh;
-  overflow: auto;
+  overflow: hidden;
+  background-image: url(../img/background/07.jpg);
+  background-size: cover;
+  padding: 1%;
+}
+
+.ifno-btn-con {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-around;
+}
+.info-btn {
+  width: 30%;
+  font-family: "East Sea Dokdo", cursive;
+  padding: 0.6rem;
+  border-radius: 0.1rem;
+  border: none;
+  font-size: 2.3rem;
+  margin: 0 2% 1% 2%;
+  cursor: pointer;
+  background-color: #5b5bffbc;
+  color: white;
+  transition: 0.3s;
+}
+.info-btn:hover {
+  background-color: #5cacf7ec;
+  color: #232365;
+}
+
+.home {
+  width: 10%;
 }
 
 .info-panel {
   min-width: 100%;
-  height: 100%;
+  height: 90%;
   display: flex;
   flex-direction: row;
 }
@@ -21,4 +52,6 @@
 .detail-con {
   width: 50%;
   min-width: 500px;
+  height: 90%;
+  padding: 0 2rem 0 2rem;
 }
