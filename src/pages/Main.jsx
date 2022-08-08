@@ -25,10 +25,10 @@ export default function Main() {
           관광지도 바로가기
         </button>
         <iframe
-          title="Youtube Video"
           width="560"
           height="315"
-          src="https://www.youtube.com/embed/juQvizeZJFM"
+          src="https://www.youtube.com/embed/-by8hxBleKA"
+          title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
