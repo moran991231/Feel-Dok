@@ -2,7 +2,7 @@
   "name": "feel-dok",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://moran991231.github.io/temp-feel-dok",
+  "homepage": "https://moran991231.github.io/temp-feel-dok",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
