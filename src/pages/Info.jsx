@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Map, MapMarker } from "react-kakao-maps-sdk";
-import { Navigate, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import { Spot } from "../components";
 import { landmarks } from "../components/landmarks";
 import "../styles/Info.css";

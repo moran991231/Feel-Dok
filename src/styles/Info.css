@@ -4,7 +4,7 @@
   overflow: hidden;
   background-image: url(../img/background/07.jpg);
   background-size: cover;
-  padding: 1%;
+  /* padding: 1%; */
 }
 
 .ifno-btn-con {
@@ -13,6 +13,7 @@
   width: 100%;
   justify-content: space-around;
 }
+
 .info-btn {
   width: 30%;
   font-family: "East Sea Dokdo", cursive;
@@ -26,6 +27,7 @@
   color: white;
   transition: 0.3s;
 }
+
 .info-btn:hover {
   background-color: #5cacf7ec;
   color: #232365;
@@ -36,14 +38,14 @@
 }
 
 .info-panel {
-  min-width: 100%;
+  width: 95%;
   height: 90%;
   display: flex;
   flex-direction: row;
 }
 
 .map-con {
-  width: 70%;
+  width: 65%;
   min-width: 500px;
   height: 90%;
   min-height: 90%;
